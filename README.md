@@ -1,3 +1,7 @@
+# No longer maintained
+This project is no longer maintained. For a replacement consider [Etar](https://github.com/xsoh/Etar-Calendar).
+
+### Readme
 Some people do not have the open source calendar from AOSP and are forced to use either the proprietary Google Calendar from Google Play or the shipped crippled calendar from e.g. Samsung.
 
 I made a repository to build the AOSP calendar without the need to build the whole Android OS.
