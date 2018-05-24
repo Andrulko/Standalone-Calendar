@@ -16,17 +16,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- This is the label underneath the icon for Calendar -->
-  <string name="app_label">Календар</string>
+  <string name="app_label">Calendar</string>
   <!-- Shared Labels. These labels are shared among the activities. -->
   <skip></skip>
   <!-- This is the label for the title or name of an event -->
-  <string name="what_label">Що</string>
+  <string name="what_label">What</string>
   <!-- This is the label for the location of an event -->
-  <string name="where_label">Де</string>
+  <string name="where_label">Where</string>
   <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
-  <string name="when_label">Коли</string>
+  <string name="when_label">When</string>
   <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
-  <string name="timezone_label">Часовий пояс</string>
+  <string name="timezone_label">Time zone</string>
   <!-- This is the label for the Guests/Attendees of an event -->
   <string name="attendees_label">Guests</string>
   <!-- Text to show when an event starts on the current day -->
@@ -76,7 +76,7 @@
          should use the shortest acceptable abbreviation of 'hour' to save space. -->
   <plurals name="Nhours">
     <!-- This is the label for a 1-hour reminder. -->
-    <item quantity="one">1 цілодобово</item>
+    <item quantity="one">1 hour</item>
     <item quantity="few"><xliff:g id="count">%d</xliff:g> hours</item>
     <item quantity="many"><xliff:g id="count">%d</xliff:g> hours</item>
     <!-- This is the label for a reminder of 2 or more hours. The actual number of
