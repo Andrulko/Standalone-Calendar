@@ -20,10 +20,10 @@
          [CHAR LIMIT=10]
     -->
   <string-array name="reminder_methods_labels">
-    <item>Уведомление</item>
-    <item>Электронной почты</item>
-    <item>СМС</item>
-    <item>Сигнализация</item>
+    <item>Notification</item>
+    <item>Email</item>
+    <item>SMS</item>
+    <item>Alarm</item>
   </string-array>
   <!-- This maps reminder_methods_labels to internal constants. -->
   <!-- Choices for the "Reminder minutes" spinner.
@@ -34,15 +34,15 @@
          [CHAR LIMIT=15]
     -->
   <string-array name="reminder_minutes_labels">
-    <item>0 минут</item>
-    <item>1 минутный</item>
-    <item>5 минут</item>
-    <item>10 минут</item>
-    <item>15 минут</item>
-    <item>20 минут</item>
-    <item>25 минут</item>
-    <item>30 минут</item>
-    <item>45 минут</item>
+    <item>0 minutes</item>
+    <item>1 minute</item>
+    <item>5 minutes</item>
+    <item>10 minutes</item>
+    <item>15 minutes</item>
+    <item>20 minutes</item>
+    <item>25 minutes</item>
+    <item>30 minutes</item>
+    <item>45 minutes</item>
     <item>1 hour</item>
     <item>2 hours</item>
     <item>3 hours</item>
