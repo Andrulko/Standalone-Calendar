@@ -1,12 +1,12 @@
 # Nicht mehr gepflegt
 
-Dieses Projekt wird nicht mehr gepflegt. For a replacement consider [Etar](https://github.com/xsoh/Etar-Calendar).
+Dieses Projekt wird nicht mehr gepflegt. Für einen Ersatz zu betrachten [Etar](https://github.com/xsoh/Etar-Calendar).
 
 ### Readme
 
-Some people do not have the open source calendar from AOSP and are forced to use either the proprietary Google Calendar from Google Play or the shipped crippled calendar from e.g. Samsung.
+Einige Menschen haben nicht die open-source-Kalender von AOSP und sind gezwungen, verwenden Sie entweder die proprietären Google-Kalender aus Google Play oder versendet verkrüppelt Kalender von z.B. Samsung.
 
-I made a repository to build the AOSP calendar without the need to build the whole Android OS. It has a different package name to prevent conflicting with “com.android.calendar”.
+Ich machte ein repository zu bauen, der AOSP-Kalender ohne die Notwendigkeit für die Errichtung der gesamten Android-OS. Es hat eine andere Paket-name um zu verhindern, dass Konflikte mit “com.android.Kalender".
 
 ### Build instructions
 
@@ -16,7 +16,7 @@ I made a repository to build the AOSP calendar without the need to build the who
     gradle build
     
 
-### How this was done
+### Wie das geschah
 
 - see `build.gradle` and the modifications to `AndroidManifest.xml`
 - `fix_strings_and_import.py` was created to fix a build problem and rename imports of R.java
