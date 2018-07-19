@@ -16,8 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- This is the label underneath the icon for Calendar -->
-  <string name="app_label2">crwdns681859:0crwdne681859:0</string>
-  <string name="app_label3">crwdns681860:0crwdne681860:0</string>
   <string name="app_label">crwdns681300:0crwdne681300:0</string>
   <!-- Shared Labels. These labels are shared among the activities. -->
   <skip></skip>
