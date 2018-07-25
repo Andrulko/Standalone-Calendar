@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- This is the label underneath the icon for Calendar -->
-  <string name="app_label2">New String #1</string>
+  <string name="app_label2">New String #123</string>
   <string name="app_label3">New String #2</string>
   <string name="app_label">Kalender</string>
   <!-- Shared Labels. These labels are shared among the activities. -->
@@ -257,7 +257,7 @@
   <!-- Label for which calendar an event is part of -->
   <string name="view_event_calendar_label">Kalender:</string>
   <!-- Label for the event organizer -->
-  <string name="view_event_organizer_label">Organizer:</string>
+  <string name="view_event_organizer_label">Veranstalter:</string>
   <!-- Label for the local timezone -->
   <!-- Label for showing event color picker -->
   <string name="choose_event_color_label">Terminfarbe auswählen</string>
