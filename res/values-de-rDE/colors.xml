@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/Calendar/assets/res/any/colors.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources>
+
+    <color name=""/>
+
+    <color name=""/>
+
+    <color name=""/>
+
+    <!-- The app wide background color -->
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+
+
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+
+    <color name=""/>
+
+    <color name=""/>
+
+
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <!-- Text color of the date in the Calendar widget -->
+
+    <color name=""/>
+    <!-- Text color of declined events in agenda view -->
+    <color name=""/>
+    <!-- Text color of non-declined events in agenda view -->
+    <color name=""/>
+    <!-- Background Color of present/future events in agenda view  -->
+    <color name=""/>
+    <!-- Background Color of past events in agenda view  -->
+    <color name=""/>
+    <!-- Color of the separator between the past and the present/future in agenda view  -->
+    <color name=""/>
+    <!-- General background color in agenda view  -->
+    <color name=""/>
+    <!-- Agenda day item text color  -->
+    <color name=""/>
+    <!-- Color of the event location's text in an agenda item  -->
+    <color name=""/>
+    <!-- Color of the event location's text in an agenda item  -->
+    <color name=""/>
+    <!-- Color of text in the calendar view selection menu -->
+    <color name=""/>
+    <!-- Light color of text in the calendar view selection menu -->
+    <color name=""/>
+    <!-- Color of the separator between items in the agenda list -->
+    <color name=""/>
+    <!-- Text color of a selected items in the agenda list - trumps all other text colors -->
+    <color name=""/>
+    <!-- Background color of a selected items in the agenda list -->
+    <color name=""/>
+    <!-- Text color of the "new event" hint in day and week views -->
+    <color name=""/>
+
+    <!-- Text color of a clicked event in the day/week view -->
+    <color name=""/>
+    <!-- background color for for clicked days in month view-->
+    <color name=""/>
+    <!-- background color for the past -->
+    <color name=""/>
+
+    <!-- Event info colors -->
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <!-- Create event colors -->
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <!-- Text color of declined events in widget view -->
+    <color name=""/>
+    <!-- Text color of non-declined events in widget view -->
+    <color name=""/>
+    <!-- Text color for all day events in widget view -->
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+    <color name=""/>
+
+    <color name=""/>
+    <color name=""/>
+</resources>
