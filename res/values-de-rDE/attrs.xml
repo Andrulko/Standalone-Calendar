@@ -15,6 +15,6 @@
 -->
 <resources>
     <!-- MultiStateButton doesn't define any special attributes -->
-    <declare-styleable name="com.android.calendar.MultiStateButton">
+    <declare-styleable name="">
     </declare-styleable>
 </resources>
