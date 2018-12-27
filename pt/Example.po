@@ -11,7 +11,7 @@ msgstr ""
 "Last-Translator: Andriy_Crowdin <andriy+26@crowdin.com>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2018-12-27 19:16\n"
+"PO-Revision-Date: 2018-12-27 19:29\n"
 
 # You can place some context here
 msgid "String for translation #1"
@@ -21,5 +21,8 @@ msgid "String for translation #2"
 msgstr ""
 
 msgid "String for translation #3"
+msgstr ""
+
+msgid "The most powerful"
 msgstr ""
 
