@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Translation (this field can be empty when imported to Crowdin)\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: playvox-demo\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /standalone/Example.po\n"
+"Project-Id-Version: playvox-demo\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: Andriy_Crowdin <andriy+26@crowdin.com>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2018-12-27 19:16\n"
+
+# You can place some context here
+msgid "String for translation #1"
+msgstr ""
+
+msgid "String for translation #2"
+msgstr ""
+
+msgid "String for translation #3"
+msgstr ""
+
