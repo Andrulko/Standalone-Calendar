@@ -1,3 +1,3 @@
 files:
-  - source: /res/values/*.xml
-    translation: /res/values-%android_code%/%original_file_name%
+  - source: /Example.po
+    translation: /%two_letters_code%/%original_file_name%
