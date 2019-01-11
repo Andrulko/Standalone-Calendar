@@ -1,6 +1,6 @@
-# Nicht mehr gepflegt
+# Abc
 
-Dieses Projekt wird nicht mehr gepflegt. Für einen Ersatz zu betrachten [Etar](https://github.com/xsoh/Etar-Calendar).
+Def. Translation.
 
 ### Readme
 
