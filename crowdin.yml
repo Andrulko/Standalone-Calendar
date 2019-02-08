@@ -1,5 +1,3 @@
 files:
-  - source: /Localization/de/*.md
-    translation: /Localization/%locale%/%original_file_name%
-  - source: /*.json
-    translation: /Localization/%locale%/%original_file_name%
+  - source: /res/values/strings.xml
+    translation: /ls/values-%two_letters_code%/%original_file_name%
