@@ -1,3 +1,3 @@
 files:
-  - source: /res/values/strings.xml
-    translation: /ls/values-%two_letters_code%/%original_file_name%
+  - source: /res/values/*.xml
+    translation: /rb/values-%two_letters_code%/%original_file_name%
