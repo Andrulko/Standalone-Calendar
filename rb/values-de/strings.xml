@@ -33,7 +33,7 @@
     <!-- This is the label for the Guests/Attendees of an event -->
     <string name="attendees_label">Guests</string>
     <!-- Text to show when an event starts on the current day -->
-    <string name="today">Today</string>
+    <string name="today">Today12</string>
     <!-- Text to show when an event starts on the next day -->
     <string name="tomorrow">Tomorrow</string>
     <!-- Text for an event starting on the current day with a start and end time.
