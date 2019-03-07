@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
-    <string name="app_label23123123">Crowdin</string>
+    <string name="app_label23123123">COMPLETELY NEW STRING</string>
     <string name="app_label2">New String #1</string>
     <string name="app_label3">New String #2</string>
     <string name="app_label">Calendar</string>
