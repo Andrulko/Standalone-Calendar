@@ -14,3 +14,6 @@ msgstr "Translation (this field can be empty when imported to Crowdin)"
 
 msgid "Hello World"
 msgstr "Translation (this field can be empty when imported to Crowdin)"
+
+msgid "Agile localization solution for tech companies"
+msgstr "Translation (this field can be empty when imported to Crowdin)"
