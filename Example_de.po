@@ -10,11 +10,11 @@ msgstr ""
 "Last-Translator: Andriy Poznakhovskyy (Andrulko)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-08-13 14:15\n"
+"PO-Revision-Date: 2019-08-13 14:18\n"
 
 # You can place some context here
 msgid "String for translation #1"
-msgstr "String für die übersetzung #1"
+msgstr "Change"
 
 msgid "String for translation #2"
 msgstr "String für die übersetzung #2"
