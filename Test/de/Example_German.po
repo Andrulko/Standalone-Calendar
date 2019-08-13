@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Andriy Poznakhovskyy (Andrulko)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-08-13 14:09\n"
+"PO-Revision-Date: 2019-08-13 14:11\n"
 
 # You can place some context here
 msgid "String for translation #1"
@@ -23,5 +23,8 @@ msgid "String for translation #3"
 msgstr ""
 
 msgid "The most powerful"
+msgstr ""
+
+msgid "Hello World"
 msgstr ""
 
