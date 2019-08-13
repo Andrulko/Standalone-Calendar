@@ -19,23 +19,23 @@
     <string name="app_label23123123">22222222222222222222</string>
     <string name="app_label2">New String #1</string>
     <string name="app_label3">New String #2</string>
-    <string name="app_label">Calendar</string>
+    <string name="app_label">Kalender</string>
     <!-- Shared Labels. These labels are shared among the activities. -->
     <skip></skip>
     <!-- This is the label for the title or name of an event -->
     <string name="what_label">What</string>
     <!-- This is the label for the location of an event -->
-    <string name="where_label">Where</string>
+    <string name="where_label">Wo</string>
     <!-- This is the label for the time of an event [CHAR LIMIT=30] -->
-    <string name="when_label">When</string>
+    <string name="when_label">My translation</string>
     <!-- This is the label for the timezone of an event [CHAR LIMIT=30] -->
-    <string name="timezone_label">Time zone</string>
+    <string name="timezone_label">Zeitzone new</string>
     <!-- This is the label for the Guests/Attendees of an event -->
-    <string name="attendees_label">Guests</string>
+    <string name="attendees_label">Gäste</string>
     <!-- Text to show when an event starts on the current day -->
-    <string name="today">Today</string>
+    <string name="today">Heute</string>
     <!-- Text to show when an event starts on the next day -->
-    <string name="tomorrow">Tomorrow</string>
+    <string name="tomorrow">Morgen</string>
     <!-- Text for an event starting on the current day with a start and end time.
          For ex, "Today at 5:00pm-6:00pm" [CHAR LIMIT=NONE] -->
     <string name="today_at_time_fmt">"Today at <xliff:g id="time_interval">%s</xliff:g>"</string>
