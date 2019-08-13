@@ -1,3 +1,5 @@
 files:
+  - source: /*.po
+    translation: /Test/%two_letters_code%/%file_name%_%locale%.po
   - source: /res/values/*.xml
-    translation: /rb/values-%two_letters_code%/%original_file_name%
+    translation: /res/valuestest-%two_letters_code%/%original_file_name%
